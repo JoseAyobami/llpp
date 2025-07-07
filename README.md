@@ -32,8 +32,8 @@ A modular, scalable backend API built with **FastAPI**, designed for managing us
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/JoseAyobami/llin-app.git
-cd llin-app
+git clone https://github.com/JoseAyobami/llpp.git
+cd llpp
 ```
 
 ### 2. Set up a virtual environment
