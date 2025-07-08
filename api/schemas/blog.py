@@ -8,7 +8,7 @@ if TYPE_CHECKING:
 
 class BaseSchema(BaseModel):
     model_config = {
-        "from_attributes": True  # ✅ This is correct
+        "from_attributes": True 
     }
 
 
