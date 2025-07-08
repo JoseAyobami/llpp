@@ -1,19 +1,19 @@
-# 📝 Blog API
+# Blog API
 
 A modular, scalable backend API built with **FastAPI**, designed for managing users and blog posts. This project includes secure authentication, user management, and full CRUD operations for blogs.
 
 ---
 
-## 🚀 Features
+## Features
 
-* ✅ **User Management** – Register, retrieve, update, and delete users
-* ✅ **Blog Post Management** – Create, view, update, and delete blog entries
-* 🔐 **Authentication** – JWT-based login and token handling using OAuth2
-* ⚙️ **Built with** FastAPI, SQLAlchemy, Pydantic v2, and modern Python tooling
+* **User Management** – Register, retrieve, update, and delete users
+* **Blog Post Management** – Create, view, update, and delete blog entries
+* **Authentication** – JWT-based login and token handling using OAuth2
+* **Built with** FastAPI, SQLAlchemy, Pydantic v2, and modern Python tooling
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [Pydantic v2](https://docs.pydantic.dev/latest/)
@@ -23,11 +23,11 @@ A modular, scalable backend API built with **FastAPI**, designed for managing us
 * [python-jose](https://python-jose.readthedocs.io/)
 * [OAuth2PasswordBearer](https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/)
 
-> ⚠️ **Note:** This project uses **Pydantic v2**. If you're coming from v1, syntax and config behavior have changed.
+> **Note:** This project uses **Pydantic v2**. If you're coming from v1, syntax and config behavior have changed.
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 Start the FastAPI development server:
 
